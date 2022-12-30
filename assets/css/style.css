@@ -1,0 +1,22 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+  .all>div{
+	  height:300px;
+	  border : 1px solid #ccc;
+	  margin-bottom: 15px;
+  }
+  .orange>div{
+	  background-color: orange;
+  }
+   .yellowgreen>div{
+	  background-color: yellowgreen;
+  }
+  .red>div{
+	  background-color: red;
+  }
+  .blueviolet>div{
+	  background-color: blueviolet;
+  }
